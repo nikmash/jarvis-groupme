@@ -4,7 +4,6 @@ import Jarvis from 'jarvis-node'
 const jarvis = new Jarvis('jarvis.ironbay.digital')
 
 const ACCESS_TOKEN = "f05790b02c290133137e459f6eb8b180";
-// const GROUP_ID = "15713716";
 const USER_ID = "30100042"
 
 var API = GroupMe.Stateless;
